@@ -1,5 +1,7 @@
 # sql-challenge
 
+ANDREW NEHER HOMEWORK SUBMISSION - 2/21/21
+
 1.List the following details of each employee: employee number, last name, first name, sex, and salary.
 
 
