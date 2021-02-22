@@ -1,6 +1,13 @@
 # sql-challenge
 
-ANDREW NEHER HOMEWORK SUBMISSION - 2/21/21
+
+FILE NAMES:
+ANEHER_EmployeeSQL_ERD.png - image of ERD
+ANEHER_PandasSQL.ipynb - bonus homework
+ANEHER_SQL_Homework_FINAL.sql - code for queries assigned below.
+QuickDBD-EmployeeSQL.sql - code for the ERD Schema
+
+ANDREW NEHER HOMEWORK SUBMISSION - 2/22/21
 
 1.List the following details of each employee: employee number, last name, first name, sex, and salary.
 
